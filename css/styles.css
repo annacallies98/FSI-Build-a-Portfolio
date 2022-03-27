@@ -1,0 +1,26 @@
+.container{width:800px;
+    margin: auto;}
+h1{color:#CD3361;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;}
+.name{color:#CACCFA;
+    background-color: #CD3361;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;}
+.image{display: block;
+    margin-left:auto;
+    margin-right:auto;}
+.my-fav{background-color: #CD3361;
+    color:white;
+    border-radius:8px;}
+body{background-color:#FBC9D7;}
+h2{font-family:Georgia;
+    color:#6B49FB;}
+h3{color:#6B49FB;
+    font-family: Trebuchet MS;}
+.about-me-p{background-color:#CACCFA;}
+li{color:#45B0B1;}
+h4{color:#FB5D49;}
+p{font-family:Helvetica;
+    color:#333;}
+.cursor{cursor: pointer;}
